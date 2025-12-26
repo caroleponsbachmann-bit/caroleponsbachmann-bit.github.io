@@ -2,7 +2,7 @@ creation of an HTML page and a CSS page
 
 # 🌟 Projet : Ma première page Web - "Data by Night"
 
-![Aperçu de l'invitation](https://cdn.pixabay.com/photo/2017/07/31/18/25/string-2559765_1280.jpg)
+![Aperçu du Photobook](assets/apercu_page_html_css.jpg)
 
 ## 🎯 Objectif du Projet
 Ce projet a été réalisé dans le cadre de ma formation à la **Wild Code School**. L'énoncé demandait de créer une page web élégante et personnalisée en utilisant les bases du langage **HTML5** et du **CSS3**, puis de l'héberger pour la rendre accessible en ligne.
